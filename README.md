@@ -4,7 +4,7 @@
 👋 Hi, I’m @KSitjar! I used to create a lot of test automation using Cucumber, but nowadays I'm a product owner.
 
 ## What Have I Worked On
-I have two, currently private, repositories for CucumberJs. One works with Selenium, the other with Puppeteer. They're meant to be starter code to help with introducing the framework to an organization.
+I have two, public repositories for CucumberJs. One works with Selenium, the other with Puppeteer. They're meant to be starter code to help with introducing the framework to an organization.
 
 ## What Do I Know
 I'm not proficient in any of these but I've coded in:
